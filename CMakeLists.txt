@@ -9,7 +9,6 @@
 # See the LICENSE file distributed with this work for details.
 # See the NOTICE file distributed with this work for additional information
 # regarding copyright ownership.
-#
 # -----------------------------------------------------------------------------
 
 cmake_minimum_required(VERSION 3.19.3 FATAL_ERROR)
