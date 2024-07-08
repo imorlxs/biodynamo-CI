@@ -9,7 +9,7 @@
 </h3>
 
 <p align="center">
-  The open-source Biology Dynamics Modeller
+  The open-source Biology Dynamics Modeller.
   <br>
   <br>
   <a href="https://www.biodynamo.org/user-guide/">User's guide</a>
